@@ -4,13 +4,10 @@ My fist project in university, This is encryptor/decryptor It's nothing special 
 # This project name is MooCrypt 🐮
 You can run main.py and use GUI.
 
-
-
-
-# Encryption 🔒
+#Encryption 🔒
 Place you text on input label, click Encrypt box and text encryption will disply on output lable. 
 
-# Decryption 🔑
+#Decryption 🔑
 Place you text encryption on input label, click Decrypt box and text decryption will disply on output lable.
 
 
@@ -18,9 +15,9 @@ Place you text encryption on input label, click Decrypt box and text decryption 
 
 
 
-# Encryption Process ⚙️🔒
+#Encryption Process ⚙️🔒
 
 
 
 
-# Decryption Process ⚙️🔑
+#Decryption Process ⚙️🔑
