@@ -11,7 +11,7 @@ You can run main.py and use GUI.
 Place you text on input label, click Encrypt box and text encryption will disply on output lable. 
 
 # Decryption 🔑
-Place you text encryption on input label, click Encrypt box and text decryption will disply on output lable.
+Place you text encryption on input label, click Decrypt box and text decryption will disply on output lable.
 
 
 
