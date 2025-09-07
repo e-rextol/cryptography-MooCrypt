@@ -9,10 +9,12 @@ You can run main.py and use GUI.
 #Encryption 🔒
 Place you text on input label, click Encrypt box and text encryption will disply on output lable. 
 
+![Encrypt](img/Encrypt)
+
 #Decryption 🔑
 Place you text encryption on input label, click Decrypt box and text decryption will disply on output lable.
 
-
+![Decrypt](img/Decrypt)
 
 
 
