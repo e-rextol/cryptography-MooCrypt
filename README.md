@@ -11,10 +11,12 @@ Place you text on input label, click Encrypt box and text encryption will disply
 
 ![Encrypt](img/Encrypt.png)
 
+![Copy](img/Copy.png)
+
 #Decryption 🔑
 Place you text encryption on input label, click Decrypt box and text decryption will disply on output lable.
 
-![Decrypt](img/Decryptpng)
+![Decrypt](img/Decrypt.png)
 
 
 
