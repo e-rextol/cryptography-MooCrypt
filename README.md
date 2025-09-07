@@ -1,6 +1,8 @@
 # cryptography-MooCrypt
 My fist project in university, This is encryptor/decryptor It's nothing special and I made from my mind :)  
 
+![Main](img/main.png)
+
 # This project name is MooCrypt 🐮
 You can run main.py and use GUI.
 
